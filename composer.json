@@ -1,26 +1,26 @@
 {
-    "name": "laravel-enso/avatars",
+    "name": "genealogiawebsite/avatars",
     "description": "User Avatar manager dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "laravel",
         "avatars",
         "avatar"
     ],
-    "homepage": "https://github.com/laravel-enso/avatars",
+    "homepage": "https://github.com/genealogiawebsite/avatars",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/files": "^4.0",
-        "laravel-enso/image-transformer": "^2.0",
-        "laravel-enso/migrator": "^2.0",
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/files": "^4.0",
+        "genealogiawebsite/image-transformer": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
         "laravolt/avatar": "^3.0"
     },
     "autoload": {
